@@ -1,0 +1,5 @@
+extract the folder
+open the terminal in that folder
+type make to build 
+type ./game-release to run snake game
+enjoy!
